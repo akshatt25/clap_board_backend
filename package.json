@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/akshatt25/clap_board_backend#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "compression": "^1.7.4",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
